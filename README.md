@@ -1,4 +1,4 @@
-# Bouncing-ball
+
 # 🎾 Bouncing Ball Animation
 
 ## 📌 Overview  
